@@ -1,0 +1,21 @@
+{
+  "recommendations": [
+    "charliermarsh.ruff",
+    "editorConfig.editorConfig",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "ms-python.debugpy",
+    "ms-python.python",
+    "tamasfe.even-better-toml",
+    "ms-toolsai.jupyter",
+    "github.copilot",
+    "aaron-bond.better-comments",
+    "github.vscode-github-actions",
+    "bierner.markdown-mermaid",
+    "postman.postman-for-vscode",
+    "alexcvzz.vscode-sqlite",
+    "ms-vscode-remote.remote-containers"
+  ]
+}
